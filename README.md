@@ -5,6 +5,7 @@
 - 📫 How to reach me:
   + E-mail: pablogc.dev@gmail.com
   + LinkedIn: https://www.linkedin.com/in/pablo-g%C3%B3mez-calvo-aa09ba180/
+  + Alt Github account: @PabloGomezCalvo
 
 <!---
 pablogcdev/pablogcdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
